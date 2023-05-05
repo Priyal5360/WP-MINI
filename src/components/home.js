@@ -103,7 +103,7 @@ const Home = () => {
 
                     <div className="right_data" style={{ width: "100%" }}>
                         <div className="sign_img mt-3">
-                            <img src='./signup.png' style={{ maxWidth: 450 }} alt='OOPS!! NOT AVAILABLE' />
+                            <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fplume.co.uk%2Fblog%2Fhow-to-create-learning-pathways-in-your-lms%2F&psig=AOvVaw1i7U201dik00lPt9c1SYYF&ust=1683380634834000&source=images&cd=vfe&ved=2ahUKEwiI6a3Xp97-AhXkY2wGHdd1BGIQjRx6BAgAEAw' style={{ maxWidth: 450 }} alt='OOPS!! NOT AVAILABLE' />
                         </div>
                     </div>
 

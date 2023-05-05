@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WP-MINI/static/css/main.b457e87e.css",
+    "main.js": "/WP-MINI/static/js/main.8cf37b0f.js",
+    "static/js/787.4cfc5a55.chunk.js": "/WP-MINI/static/js/787.4cfc5a55.chunk.js",
+    "index.html": "/WP-MINI/index.html",
+    "main.b457e87e.css.map": "/WP-MINI/static/css/main.b457e87e.css.map",
+    "main.8cf37b0f.js.map": "/WP-MINI/static/js/main.8cf37b0f.js.map",
+    "787.4cfc5a55.chunk.js.map": "/WP-MINI/static/js/787.4cfc5a55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b457e87e.css",
+    "static/js/main.8cf37b0f.js"
+  ]
+}
